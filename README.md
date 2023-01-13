@@ -15,3 +15,6 @@ a)  Inserting data into the in memory database (h2)
 successful insert.
 
 b) try the same with different option and the exception handler will pass customised message.
+
+https://cassiomolin.com/2017/06/02/cross-field-validation-with-bean-validation/
+noch ein interessanter Punkt, um übergreifend über die Felder zu validieren
